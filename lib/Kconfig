@@ -1,0 +1,5 @@
+menu "Custom libraries and modules"
+
+rsource "cow/Kconfig"
+
+endmenu

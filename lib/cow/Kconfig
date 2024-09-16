@@ -1,0 +1,4 @@
+config COW
+	bool "Support for cow command"
+	help
+	  This option enables the 'cow' command
